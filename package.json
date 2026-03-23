@@ -1,16 +1,11 @@
 {
   "name": "zoom-mcp-proxy-talentxm",
-  "version": "1.0.0",
-  "description": "Proxy server that adds Composio auth headers for Zoom MCP — TalentXM",
+  "version": "2.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
+    "start": "node server.js"
   },
   "engines": {
     "node": ">=18.0.0"
-  },
-  "keywords": ["mcp", "zoom", "proxy", "talentxm"],
-  "author": "TalentXM",
-  "license": "MIT"
+  }
 }
